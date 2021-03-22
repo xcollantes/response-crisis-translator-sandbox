@@ -1,0 +1,22 @@
+{
+  "name": "response-crisis-translator-sandbox",
+  "version": "1.0.0",
+  "description": "Sandbox for RCT ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xcollantes/response-crisis-translator-sandbox.git"
+  },
+  "author": "collantes.xavier@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xcollantes/response-crisis-translator-sandbox/issues"
+  },
+  "homepage": "https://github.com/xcollantes/response-crisis-translator-sandbox#readme",
+  "dependencies": {
+    "firebase-tools": "^9.6.1"
+  }
+}
